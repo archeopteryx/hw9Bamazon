@@ -1,0 +1,16 @@
+{
+  "name": "hwpackages",
+  "version": "1.0.2",
+  "description": "contains inquirer and mysql",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
